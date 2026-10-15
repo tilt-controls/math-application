@@ -45,6 +45,12 @@ public class MathApp {
         // Question 6:
         double firstVariable = -3.8;
         System.out.println("The absolute (positive) value of " + firstVariable + " is " + Math.abs(firstVariable));
+        System.out.println();
+
+        // Question 7:
+        double randomNumber = Math.random();
+        System.out.println("Random number generated is " + randomNumber);
+        System.out.println();
 
 
 
