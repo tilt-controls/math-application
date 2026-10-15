@@ -29,6 +29,20 @@ public class MathApp {
         System.out.println("The square root of " + number1 + " is " + (Math.sqrt(number1)));
         System.out.println();
 
+        // Question 5:
+        double x1 = 5;
+        double y1 = 10;
+        double x2 = 85;
+        double y2 = 50;
+
+        double xDistance = Math.pow(x2 - x1, 2);
+        double yDistance = Math.pow(y2 - y1, 2);
+
+        double totalDistance = Math.sqrt(xDistance + yDistance);
+        System.out.println("The distance between the two points is " + totalDistance);
+        System.out.println();
+
+
 
 
 
