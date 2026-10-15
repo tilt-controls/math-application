@@ -18,6 +18,15 @@ public class MathApp {
         System.out.println("The lowest price is " + lowestPrice);
         System.out.println();
 
+        // Question 3:
+        double circleRadius = 7.25;
+        double circleArea = 3.14 * (circleRadius * circleRadius);
+        System.out.println("The area of the circle is " + circleArea);
+        System.out.println();
+
+
+
+
 
 
 
