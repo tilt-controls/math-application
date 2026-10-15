@@ -52,6 +52,14 @@ public class MathApp {
         System.out.println("Random number generated is " + randomNumber);
         System.out.println();
 
+        // Question 8:
+        int totalDays = 24;
+        int totalHours = (totalDays * 24);
+        int totalMinutes = (totalHours * 60);
+        int totalSeconds = (totalMinutes * 60);
+        int totalMilliseconds = (totalSeconds * 1000);
+        System.out.println("There are " + totalMinutes + " minutes in " + totalDays + " days, and " +
+        totalMilliseconds + " milliseconds in " + totalDays + " days.");
 
 
 
