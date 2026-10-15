@@ -42,7 +42,9 @@ public class MathApp {
         System.out.println("The distance between the two points is " + totalDistance);
         System.out.println();
 
-
+        // Question 6:
+        double firstVariable = -3.8;
+        System.out.println("The absolute (positive) value of " + firstVariable + " is " + Math.abs(firstVariable));
 
 
 
