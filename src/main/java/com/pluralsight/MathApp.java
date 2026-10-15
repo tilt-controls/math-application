@@ -24,6 +24,14 @@ public class MathApp {
         System.out.println("The area of the circle is " + circleArea);
         System.out.println();
 
+        // Question 4:
+        double number1 = 5.0;
+        System.out.println("The square root of " + number1 + " is " + (Math.sqrt(number1)));
+        System.out.println();
+
+
+
+
 
 
 
